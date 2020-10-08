@@ -69,8 +69,11 @@ a:active{
                         max-width:860px;
 }
 #sshacks{
-	margin-top:-29px;
+	display:block;
 	overflow:hidden;
+}
+#sshacks-container{
+	margin-top:-29px;
 }
 
 #logo{
