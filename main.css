@@ -77,7 +77,7 @@ a:active{
 h1{font-size:170%;margin-top:100px;}
 
 #topm{
-    font-size: 14px;
+    font-size: 15px;
     display: block;
     top: 0;
     width: 100%;
@@ -87,9 +87,6 @@ h1{font-size:170%;margin-top:100px;}
     color: #FFF;
     background:#000;
     #border-bottom:2px solid #292929;
-}
-#sponsor a{
-    padding:0;
 }
 
 #topm a, 
@@ -102,6 +99,9 @@ h1{font-size:170%;margin-top:100px;}
 #topm a:active{
     font-weight:bold;
 }
+
+#leftm{display:block;float:left;margin-left:12px;font-weight:bold;}
+#rightm{display:block;float:right;margin-right:12px;padding:0;}
 
 table.minimalistBlack {
   border: 0px solid #000000;
