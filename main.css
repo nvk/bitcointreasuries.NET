@@ -131,3 +131,6 @@ table.minimalistBlack thead th {
 table.minimalistBlack tfoot td {
   font-size: 14px;
 }
+.total{
+	font-weight:bold;
+}
