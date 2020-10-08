@@ -68,6 +68,10 @@ a:active{
                         height:400px;
                         max-width:860px;
 }
+#sshacks{
+	margin-top:-29px;
+	overflow:hidden;
+}
 
 #logo{
 	width:70%;
