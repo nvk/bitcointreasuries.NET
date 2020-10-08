@@ -139,3 +139,9 @@ table.minimalistBlack tfoot td {
 td.total{
 	font-size:15px;
 }
+.symbol{
+	font-weight:bold;
+}
+.symbol:before {
+  content: "$";
+}
