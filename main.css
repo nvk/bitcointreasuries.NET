@@ -136,3 +136,6 @@ table.minimalistBlack tfoot td {
 	font-weight:bold;
 	text-align:right!important;
 }
+td.total{
+	font-size:15px;
+}
