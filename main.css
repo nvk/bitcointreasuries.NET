@@ -63,7 +63,7 @@ a:active{
 
 #content{
     text-align: left;
-    margin: 70px auto;
+    margin: 30px auto;
     width: 800px;
 }
 
@@ -73,7 +73,7 @@ a:active{
 	margin-top:7%;
 	margin-bottom:20px;}
 
-h1{font-size:180%;}
+h1{font-size:140%;margin-top:70px;}
 
 #topm{
     font-size: 14px;
