@@ -101,3 +101,17 @@ h1{font-size:180%;}
 #topm a:active{
     font-weight:bold;
 }
+
+table.unstyledTable {
+}
+table.unstyledTable td, table.unstyledTable th {
+}
+table.unstyledTable thead {
+  background: #DDDDDD;
+}
+table.unstyledTable thead th {
+  font-weight: normal;
+}
+table.unstyledTable tfoot {
+  font-weight: bold;
+}
