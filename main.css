@@ -63,10 +63,9 @@ a:active{
 
 #content{
     text-align: left;
-    margin: 60px auto 0;
-
-                        height:400px;
-                        max-width:860px;
+    margin: 80px auto 0;
+    height:400px;
+    max-width:860px;
 }
 #sshacks{
 	margin-top:-29px;
@@ -83,7 +82,7 @@ a:active{
 	margin-top:7%;
 	margin-bottom:20px;}
 
-h1{font-size:170%;margin-top:100px;}
+h1{font-size:180%;margin-top:11%;}
 
 #topm{
     font-size: 15px;
