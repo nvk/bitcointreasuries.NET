@@ -94,7 +94,7 @@ h1{font-size:180%;margin-top:11%;}
     padding: 6px 0;
     color: #FFF;
     background:#000;
-    /* border-bottom:2px solid #292929; */
+    #border-bottom:2px solid #292929;
 }
 
 #topm a, 
@@ -162,29 +162,4 @@ table.minimalistBlack tfoot {
 }
 table.minimalistBlack tfoot td {
   font-size: 14px;
-}
-
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #000000;
-  }
-
-  a,
-  a:hover,
-  a:visited,
-  a:active,
-  #topm,
-  h1,
-  small {
-    color: #e7e7e7;
-  }
-
-  #topm {
-    background:#232323;
-  }
-
-  #sshacks {
-    filter: invert(1);
-  }
 }
