@@ -108,8 +108,19 @@ h1{font-size:180%;margin-top:10%;}
     font-weight:bold;
 }
 
+.logo{font-family: monospace;}
+
 #leftm{display:block;float:left;margin-left:24px;}
 #rightm{display:block;float:right;margin-right:24px;padding:0;}
+
+@media all and (max-width: 1100px) {
+  #topm {text-align:center;}
+  #leftm {float:none;margin:0px auto;padding-bottom:10px;}
+  #rightm {float:none;margin:0px auto;padding-top:10px;border-top:1px solid #ccc;}
+  h1{margin-top:20%;}
+  a.logo{font-size: 140%;}
+}
+
 .addbtn{
     display: inline-block;
     border: 1px solid #fff;
