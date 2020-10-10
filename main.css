@@ -108,7 +108,7 @@ h1{font-size:180%;margin-top:11%;}
     font-weight:bold;
 }
 
-#leftm{display:block;float:left;margin-left:12px;font-family:monospaced;}
+#leftm{display:block;float:left;margin-left:12px;}
 #rightm{display:block;float:right;margin-right:12px;padding:0;}
 
 table.minimalistBlack {
