@@ -110,7 +110,7 @@ h1{font-size:180%;margin-top:11%;}
 
 #leftm{display:block;float:left;margin-left:12px;}
 #rightm{display:block;float:right;margin-right:12px;padding:0;}
-.addbtc{display: inline-block;
+.addbtn{display: inline-block;
     border: 1px solid #fff;
     padding: 2px 11px;
     margin-left:20px;
