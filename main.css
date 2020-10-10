@@ -163,3 +163,13 @@ table.minimalistBlack tfoot {
 table.minimalistBlack tfoot td {
   font-size: 14px;
 }
+
+.small-print{
+  opacity: .4;
+  font-size: 65%;
+  margin-top: 0px;
+  width: 100%;
+  text-align: center;
+  display: block;
+  line-height: 1.55;
+}
