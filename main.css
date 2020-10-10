@@ -129,6 +129,11 @@ h1{font-size:180%;margin-top:10%;}
     font-size: 12px;
     border-radius:2px;
 }
+.addbtn:hover{
+    border: 1px solid #FFF;
+    background:#FFF;
+    color:#000;
+}
 table.minimalistBlack {
   border: 0px solid #000000;
   width: 100%;
