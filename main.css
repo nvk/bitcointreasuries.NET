@@ -123,10 +123,11 @@ h1{font-size:180%;margin-top:10%;}
 
 .addbtn{
     display: inline-block;
-    border: 1px solid #fff;
+    border: 1px solid #848484;
     padding: 2px 11px!important;
     margin-left: 40px;
     font-size: 12px;
+    border-radius:2px;
 }
 table.minimalistBlack {
   border: 0px solid #000000;
