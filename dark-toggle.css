@@ -1,0 +1,14 @@
+.floating-button {
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+}
+  
+.dark-toggle-icon {
+    padding: 10px;
+    background-color: #000;
+    border-radius: 50%;
+    fill: #fff;
+    width: 20px;
+    height: 20px;
+}
