@@ -108,7 +108,7 @@ h2{
 #topm a:active{
       color:#FFF;
       text-decoration:none;
-      padding-left: 4px;
+      padding: 0 4px;
   }
 #topm a:active{
     font-weight:bold;
@@ -129,8 +129,8 @@ h2{
 .addbtn{
     display: inline-block;
     border: 1px solid #848484;
-    padding: 2px 11px!important;
-    margin-left: 40px;
+    padding: 2px 4px!important;
+    margin-left: 30px;
     font-size: 12px;
     border-radius:2px;
 }
