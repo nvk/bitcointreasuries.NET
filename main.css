@@ -83,10 +83,11 @@ a:active{
 	margin-top:7%;
 	margin-bottom:20px;}
 
-h1{font-size:220%;
-	margin-top:100px;}
+h1{
+   font-size:180%;
+   margin-top:80px;}
 h2{
-	font-size: 1.3em;
+  font-size: 1.3em;
   font-weight: 300;
   margin-top: 43px;}
 
