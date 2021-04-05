@@ -135,6 +135,9 @@ h2{
     font-size: 12px;
     border-radius:2px;
 }
+.addbtn+.addbtn{
+   margin-left: 4px;
+}
 .addbtn:hover{
     border: 1px solid #FFF;
     background:#FFF;
