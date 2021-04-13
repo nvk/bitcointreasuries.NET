@@ -82,6 +82,7 @@ a:active{
 	max-width:600px;
 	margin-top:7%;
 	margin-bottom:20px;}
+    font-size: 16px;
 
 h1{
    font-size:180%;
@@ -92,7 +93,7 @@ h2{
   margin-top: 43px;}
 
 #topm{
-    font-size: 15px;
+    font-size: 14px;
     display: block;
     top: 0;
     width: 100%;
@@ -114,10 +115,10 @@ h2{
 }
 #topm a{ 
     display: inline-block;
-    padding: 10px 0;
+    padding: 11px 0 0;
 }
 #topm #rightm a{ 
-    padding: 10px 4px;
+    padding: 10px 6px;
     margin-right:2px;
     border-left:2px solid #2525254;
 }
@@ -138,7 +139,7 @@ h2{
     display: inline-block;
     border: 1px solid #848484;
     padding: 2px 4px!important;
-    margin-left: 16px;
+    margin-left: 10px;
     font-size: 13px;
     border-radius:2px;
 }
