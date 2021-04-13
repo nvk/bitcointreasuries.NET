@@ -129,7 +129,7 @@ h2{
 #leftm{display:block;float:left;margin-left:24px;}
 #rightm{display:block;float:right;margin-right:12px;padding:0;}
 
-@media all and (max-width: 1100px) {
+@media all and (max-width: 1302px) {
   #topm {text-align:center;}
   #leftm {float:none;margin:0px auto;padding-bottom:10px;}
   #rightm {float:none;margin:0px auto;padding-top:10px;border-top:1px solid #717171;line-height: 1.7;}
