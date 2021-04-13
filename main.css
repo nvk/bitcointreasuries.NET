@@ -98,7 +98,6 @@ h2{
     width: 100%;
     position: absolute;
     left: 0;
-    padding: 10px 0;
     color: #FFF;
     background:#000;
     /* border-bottom:2px solid #292929; */
@@ -115,12 +114,12 @@ h2{
 }
 #topm a{ 
     display: inline-block;
-    padding: 10px auto;
+    padding: 10px 0;
 }
 #topm #rightm a{ 
     padding: 10px 4px;
     margin-right:2px;
-    border-left:1px solid #848484;
+    border-left:2px solid #2525254;
 }
 
 .logo{font-family: monospace;}
