@@ -86,7 +86,8 @@ a:active{
 
 h1{
    font-size:180%;
-   margin-top:80px;}
+   margin-top:80px;
+}
 h2{
   font-size: 1.3em;
   font-weight: 300;
@@ -133,7 +134,7 @@ h2{
   #leftm {float:none;margin:0px auto;padding-bottom:10px;}
   #rightm {float:none;margin:0px auto;padding-top:10px;border-top:1px solid #717171;line-height: 1.7;}
   a.logo{font-size: 140%;}
-  h1{margin-top:160px;}
+  h1{margin-top:160px!important;}
 }
 .addbtn{
     display: inline-block;
