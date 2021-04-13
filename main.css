@@ -91,7 +91,8 @@ h1{
 h2{
   font-size: 1.3em;
   font-weight: 300;
-  margin-top: 43px;}
+  margin-top: 43px;
+}
 
 #topm{
     font-size: 14px;
@@ -135,6 +136,9 @@ h2{
   #rightm {float:none;margin:0px auto;padding-top:10px;border-top:1px solid #717171;line-height: 1.7;}
   a.logo{font-size: 140%;}
  h1{margin-top:160px;}
+}
+@media all and (min-width: 1101px) {
+ h1{margin-top:60px;}
 }
 .addbtn{
     display: inline-block;
