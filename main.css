@@ -125,7 +125,7 @@ h2{
 .logo{font-family: monospace;}
 
 #leftm{display:block;float:left;margin-left:24px;}
-#rightm{display:block;float:right;margin-right:24px;padding:0;}
+#rightm{display:block;float:right;margin-right:12px;padding:0;}
 
 @media all and (max-width: 1100px) {
   #topm {text-align:center;}
