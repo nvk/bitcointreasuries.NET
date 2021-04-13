@@ -109,10 +109,14 @@ h2{
 #topm a:active{
       color:#FFF;
       text-decoration:none;
-      padding: 0 4px;
   }
 #topm a:active{
     font-weight:bold;
+}
+#topm #rightm a{ 
+    display: inline-block;
+    padding: 10px 4px;
+    border-left:1px solid #ccc;
 }
 
 .logo{font-family: monospace;}
