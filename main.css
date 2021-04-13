@@ -92,7 +92,7 @@ h2{
   margin-top: 43px;}
 
 #topm{
-    font-size: 16px;
+    font-size: 15px;
     display: block;
     top: 0;
     width: 100%;
@@ -131,8 +131,8 @@ h2{
     display: inline-block;
     border: 1px solid #848484;
     padding: 2px 4px!important;
-    margin-left: 30px;
-    font-size: 12px;
+    margin-left: 16px;
+    font-size: 13px;
     border-radius:2px;
 }
 .addbtn+.addbtn{
